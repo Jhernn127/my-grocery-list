@@ -1,5 +1,5 @@
 :root {
-  --background: #292d3e;
+  --background: #292d;
   --foreground: #959dcb;
   --comment: #676e95;
   --accent: #c3e88d;
@@ -7,8 +7,8 @@
   --orangish: #f78c6c;
   --yellowish: #ffcb6b;
   --greenish: #c3e88d;
-  --bluish: #82aaff;
-  --purplish: #c792ea;
+  --bluish: #82aa;
+  --purplish: #c79;
 }
 
 body {
